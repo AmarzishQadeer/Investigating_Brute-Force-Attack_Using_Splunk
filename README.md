@@ -66,6 +66,9 @@ This project demonstrates how to investigate, detect, and mitigate brute-force a
   <li> Execute the query to analyze the data and detect suspicious behavior.</li>
 </ul>
 
+Read the <a href="https://github.com/AmarzishQadeer/Investigating_Brute-Force-Attack_Using_Splunk/blob/main/Investigating%20Brute%20Force%20Attack%20-%20Splunk.pdf
+"> step-by-step guide </a>     
+
 
 
 
