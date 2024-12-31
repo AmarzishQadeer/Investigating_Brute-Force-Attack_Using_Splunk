@@ -47,9 +47,24 @@ Brute-force attacks have a long history that traces back to the early days of cr
   <li>Cloud Computing and GPUs: Modern hardware, including GPUs and cloud services, has exponentially increased the speed of brute-force attempts, enabling attackers to break even moderately strong passwords in shorter timeframes.</li>
 </ul>
 
+## <h3> Project Overview </h3>
 
+This project demonstrates how to investigate, detect, and mitigate brute-force attacks using Splunk. It includes multiple search queries tailored to identify potential brute-force attempts and highlights best practices for analyzing login patterns, alerting on suspicious behavior, and hardening security against such attacks.
 
+<h3> Features </h3>
+<ul>
+  <li> Six different methods using Splunk queries to detect suspicious login patterns.</li>
+  <li> Methods to identify failed login attempts, anomalies, and compromised accounts. </li>
+  <li> Search queries for detecting brute-force attack patterns and log analysis </li>
+</ul>
 
+<h3> How to Use </h3>
+
+<ul>
+  <li> Set Up Splunk: Ensure Splunk is installed and configured with the relevant log data.</li>
+  <li> Choose a query based on your investigation needs </li>
+  <li> Execute the query to analyze the data and detect suspicious behavior.</li>
+</ul>
 
 
 
